@@ -1,0 +1,4 @@
+cron:
+  - name: kabelwerk-check
+    schedule: "*/5 * * * *"
+    command: python3 checker.py
