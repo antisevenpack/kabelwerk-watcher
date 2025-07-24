@@ -1,6 +1,3 @@
-<details> <summary>📋 <strong>Klick zum Aufklappen des Codes</strong></summary>
-python
-Code kopieren
 import requests
 import hashlib
 import os
@@ -60,4 +57,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-</details>
